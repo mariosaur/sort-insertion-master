@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sort-insertion-master-4facf1b500154341a27cb7331a63c74be262b488/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sort-insertion-master-4facf1b500154341a27cb7331a63c74be262b488/lib/junit-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
